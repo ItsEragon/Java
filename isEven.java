@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Main {
+public class isEven {
 
     public static void isEven(int n) {
         if (n % 2 == 0) {
