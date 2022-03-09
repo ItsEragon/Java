@@ -3,7 +3,7 @@
 import java.awt.desktop.SystemEventListener;
 import java.util.*;
 
-public class Main {
+public class isPrime {
 
     public static boolean isPrime(int n) {
 
