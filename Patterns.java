@@ -1,10 +1,11 @@
 import java.util.*;
 
 public class Pattterns {
-  
-  // Same variables has been used multiple times in every pattern so make sure to try them one by one in order avoid any kind of errors.
 
     public static void main(String[] args) {
+      
+      // Same variables has been used multiple times in every pattern so make sure to try them one by one in order avoid any kind of errors.
+      
         Scanner sc = new Scanner(System.in);
 
         /* Pattern - 1 - Rectangle
