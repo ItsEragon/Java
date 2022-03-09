@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Main {
+public class avgFunc {
 
     public static void avgfunc(int a, int b, int c) {
 
