@@ -1,7 +1,5 @@
 //Make a function to check if a number is prime or not.
 
-package com.company;
-
 import java.awt.desktop.SystemEventListener;
 import java.util.*;
 
