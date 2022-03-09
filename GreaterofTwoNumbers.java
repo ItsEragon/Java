@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class GreaterofTwoNumbers {
 
     public static void greaterofTwo (int a, int b) {
         if (a == b) {
