@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Main {
+    
+    // Same variables has been used multiple times in every pattern so make sure to try them one by one in order avoid any kind of errors.
 
     // 1. Print a given name in function
   
