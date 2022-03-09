@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Main {
+public class sumofoddNumbers {
 
     public static int sumofddNumbers(int n) {
         int sum = 0;
